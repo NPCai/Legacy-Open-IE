@@ -4,7 +4,7 @@ This is a Java maven project showing use of [OpenIE-4](https://github.com/allena
 
 ## Installation
 
-Install via Maven. Note that we are using OpenIE-4, but OpenIE-5 has been released with minor changes. You can view new releases [here](https://search.maven.org/#search%7Cga%7C1%7Copenie).
+Install dependencies via Maven using pom.xml. Note that we are using OpenIE-4, but OpenIE-5 has been released with minor changes. You can view new releases [here](https://search.maven.org/#search%7Cga%7C1%7Copenie).
 
 ## Purpose
 
