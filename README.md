@@ -8,4 +8,19 @@ Install dependencies via Maven using pom.xml. Note that we are using OpenIE-4, b
 
 ## Purpose
 
-We created this repo to benchmark rule-based systems. We found them to be unsatisfactory for our use cases, and have started developing of Squadie (an open information extraction corpus based on SQuAD) and Nopie (a neural open information extractor).
+OpenIE is a field of NLP that focuses on extracting tuples from text in the form:
+
+'''
+<subject, relation/action, object>
+'''
+
+For example:
+
+'''
+The dog runs to the house.
+<the dog, runs to, the house>
+'''
+
+This contrasts traditional information extraction, which has a preset list of relations. 
+
+We created this repo to informally benchmark rule-based OpenIE systems. We found them to be unsatisfactory for our use cases, and have started developing of Squadie (an open information extraction corpus based on SQuAD) and Nopie (a neural open information extractor).
