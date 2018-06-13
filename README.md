@@ -1,6 +1,6 @@
 # Legacy-Open-IE
 
-This is a Java maven project showing use of [OpenIE-4](https://github.com/allenai/openie-standalone) and Stanford [OpenIE](https://nlp.stanford.edu/software/openie.html). Please see their project page and licenses (especially the OpenIE-4 license, as it's particularly restrictive). The project requies Java 8 or higher. 
+This is a Java maven project showing use of [OpenIE-4](https://github.com/allenai/openie-standalone) and [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html). Please see their project page and licenses (especially the OpenIE-4 license, as it's particularly restrictive). The project requies Java 8 or higher. 
 
 ## Installation
 
